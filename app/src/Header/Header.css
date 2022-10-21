@@ -1,0 +1,9 @@
+.Header-site-header {
+  font-family: serif;
+  border: 1px solid rgb(61, 61, 61);
+  padding: 10px;
+  margin: 5px;
+}
+.Header-site-header {
+  grid-area: h;
+}

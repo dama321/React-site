@@ -1,0 +1,13 @@
+* {
+  font-family: serif;
+  color: #151616;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-areas:
+    "h h h"
+    "m m s"
+    "f f f";
+}
